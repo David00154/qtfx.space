@@ -3,10 +3,7 @@ export const SeoMeta = () => (
   <>
     <meta name="author" content="Jeffrey Chadwick, JeffreyChadwick" />
     <meta name="keywords" content="Jeffrey Chadwick, JeffreyChadwick" />
-    <meta
-      name="google-site-verification"
-      content="1HYM4qZvOFOBB5gaRNWWRDuX39v-4eoBn2MQCMqBGgk"
-    />
+    <meta name="google-site-verification" content="8fc3L6Kjgs754jh-GYQpRc9CYTl-VnpjwgcSCGd92wc" />
     <meta
       name="description"
       content="Jeffrey Chadwick is a CERTIFIED FINANCIAL PLANNER™ professional. He has also earned his Chartered Financial Consultant Designation®. In addition to these designations, Jeffrey Chadwick has his Series 7, Series 63, and Series 9 licenses. He is also licensed in the State of Alabama to offer life insurance and annuity products. Jonathan specializes in Estate, Retirement, and Investment Planning.."
