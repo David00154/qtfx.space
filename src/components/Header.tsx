@@ -13,10 +13,10 @@ const Header: FC<{ pathname: string }> = ({ pathname }) => {
       text: "About",
       href: "/about",
     },
-    {
-      text: "Brokers",
-      href: "/brokers/jeffrey-chadwick",
-    },
+    // {
+    //   text: "Brokers",
+    //   href: "/brokers/jeffrey-chadwick",
+    // },
     // {
     //     text: "Pricing",
     //     href: "/#pricing"
